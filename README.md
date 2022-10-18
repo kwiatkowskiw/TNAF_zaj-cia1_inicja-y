@@ -1,1 +1,1 @@
-# https://github.com/kwiatkowskiw/TNAF_zaj-cia1_inicja-y
+# https://kwiatkowskiw.github.io/TNAF_zaj-cia1_inicja-y/
